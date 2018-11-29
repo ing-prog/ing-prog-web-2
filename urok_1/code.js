@@ -15,4 +15,6 @@ window.onload = function () {
         // alert(sum);
         resBox.innerHTML = sum;
     }
+
+    // z = x / y
 };
